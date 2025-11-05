@@ -3,7 +3,5 @@
   "version": "1.0.0",
   "displayName": "Maru Packed Unity",
   "unity": "2023.3",
-  "dependencies": {
-    "com.marugame.hotreload": "file:Packages/com.marugame.hotreload"
-  }
+  "dependencies": {}
 }
